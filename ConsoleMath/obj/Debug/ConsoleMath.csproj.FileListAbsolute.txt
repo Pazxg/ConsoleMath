@@ -1,0 +1,8 @@
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\bin\Debug\ConsoleMath.exe.config
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\bin\Debug\ConsoleMath.exe
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\bin\Debug\ConsoleMath.pdb
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.exe
+C:\Users\55\Desktop\MathX\ConsoleMath\ConsoleMath\obj\Debug\ConsoleMath.pdb
